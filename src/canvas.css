@@ -1,0 +1,28 @@
+
+
+		
+		div{
+				width:200px;
+				height:300px;
+				background-color:aqua;
+				margin:aqua;
+			
+		}
+		
+		
+		#birdfly{
+			
+				width:500px;
+				height:600px;
+				background-color:yellow;
+				margin:20;
+		}
+		
+		
+		#mycanvas{
+			width:100%;
+			height:100%;
+			background-color:black;
+			border:2px solid red;
+			
+		}
